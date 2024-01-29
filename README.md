@@ -21,8 +21,7 @@ So from within the container I'm running 2 commands. The first is the is the exe
 and the second one is the execution of the tests. This is the output in the terminal, you can notice that my results
 are very close to those provided by your side
 
-
-![Screenshot from 2024-01-29 04-37-05.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-01-29%2004-37-05.png)
+[](https://freeimage.host/i/JcOBXMG)
 
 In order for my code to comply with PSR-12 I've installed PHP CS Fixer through composer. In order to run it,
 it has to be installed by composer first. Because I didn't write a config file, if you are planning to change some of the code,
